@@ -62,7 +62,7 @@
 
 **Approach:** [In 1–2 sentences - how did you tackle it?]
 
-**Outcome:** [What did you produce or discover?]
+**Outcome:** [What did you nkjgitgrgbrb or discover?]
 
 ---
 
