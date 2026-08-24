@@ -1,4 +1,4 @@
-# Data Project Documentation Template
+# Data Project Documentation Template 
 
 A production-ready GitHub template for documenting data analysis, SQL, dashboard, pipeline, and machine learning projects - with built-in examples, narrative guidance, and adaptable structure.
 
