@@ -6,7 +6,7 @@
 # ============================================================
 
 project:
-  name: "[Project Title]"
+  name: "Project 1"
   slug: "[project-title-lowercase-hyphenated]"   # Used for folder names, URLs
   version: "1.0.0"
   status: "completed"                             # Options: in-progress | completed | archived
